@@ -1,4 +1,4 @@
-# computer graphics.h
+# Computer Graphics / graphics.h
 ##  Libary
   WinBGIm_Library6_0_Nov2005 is downloaded from original website:
   https://winbgim.codecutter.org/
