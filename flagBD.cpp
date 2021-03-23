@@ -7,8 +7,8 @@ int main()
 
     setcolor(COLOR(0, 106, 78));
     setfillstyle(SOLID_FILL, COLOR(0, 106, 78));
-    rectangle(50, 45, 650, 405);
-    floodfill(51, 46, COLOR(0, 106, 78));
+    bar(50, 45, 650, 405);
+//    floodfill(51, 46, COLOR(0, 106, 78));
 
 
     setcolor(COLOR(244, 42, 65));
