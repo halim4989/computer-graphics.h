@@ -3,7 +3,7 @@
 
 int main()
 {
-    initwindow(700, 450);
+    initwindow(700, 450, "Smiling Face", 300, 200);
     //face
     circle(350, 225, 200);
 
