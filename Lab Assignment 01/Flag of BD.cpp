@@ -1,3 +1,4 @@
+//coordinates from figma
 #include<iostream>
 #include<graphics.h>
 
