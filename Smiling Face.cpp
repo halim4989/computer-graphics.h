@@ -1,6 +1,6 @@
 #include<iostream>
 #include<graphics.h>
-using namespace std;
+
 int main()
 {
     initwindow(700, 450);
@@ -17,6 +17,6 @@ int main()
     //smile
     arc(350, 225, 200, 340, 150);
 
-
-    cin.get();
+    //freeze window
+    std::cin.get();
 }
