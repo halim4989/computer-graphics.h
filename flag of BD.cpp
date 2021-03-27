@@ -3,7 +3,7 @@
 
 int main()
 {
-    initwindow(700, 450);
+    initwindow(700, 450, "flag of BD", 300, 200);
 
     setcolor(COLOR(0, 106, 78));
     setfillstyle(SOLID_FILL, COLOR(0, 106, 78));
