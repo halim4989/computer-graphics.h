@@ -14,6 +14,7 @@ int main()
     setfillstyle(SOLID_FILL, COLOR(244, 42, 65));
     circle(320, 225, 120);
     floodfill(320, 225, COLOR(244, 42, 65));
-
+    
+    //freeze window
     std::cin.get();
 }
