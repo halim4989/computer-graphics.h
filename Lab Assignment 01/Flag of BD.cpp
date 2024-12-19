@@ -19,3 +19,6 @@ int main()
     //freeze window
     std::cin.get();
 }
+
+
+
